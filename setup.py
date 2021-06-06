@@ -6,7 +6,7 @@ setup(name='image_tools',
     url='https://github.com/dan-velez/image_tools',
     author='Daniel Velez',
     author_email='daniel.enr.velez@gmail.com',
-    license='Copyright Anikasystems',
+    license='MIT,
     python_requires=">=3.6",
     packages=['image_tools'],
     entry_points={
